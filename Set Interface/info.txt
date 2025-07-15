@@ -1,0 +1,11 @@
+Set does not allow duplicates.
+It doesnt guarantee order.
+No index based access.
+
+
+Common methods
+add() -> adds the element if its not in the set.
+remove()-> remove the element from the set.
+conatins()-> checks uf the set contains the element
+size()-> returns the number of elements 
+clear() -> removes all elements.
